@@ -18,6 +18,10 @@
 
 ## Превью
 
+![image](https://user-images.githubusercontent.com/114806441/197034820-c563c1f5-638f-415f-b9b3-d7f265133f51.png)
+
+![image](https://user-images.githubusercontent.com/114806441/197034913-7ca57002-959a-4864-8fa2-a37251886ffe.png)
+
 
 ## Контакты 
 
