@@ -1,4 +1,4 @@
-![NSGIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fakspic.ru%2Falbum%2Fbest_wallpapers&psig=AOvVaw1K_2tXukr78s3CtdOvQjBP&ust=1666373143158000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLDWpOup7_oCFQAAAAAdAAAAABAE)
+![NSGIF](https://dl.dropboxusercontent.com/s/0rq3fr0dtpvwd4h/NSGIF-header.png?dl=0)
 
 NSGIF is an iOS Library for converting your videos into beautiful animated GIFs.
 Check out [_this example_](http://files.parsetfss.com/2677410f-fd15-46aa-a2fa-258c85d4da30/tfss-2215cfe6-03b5-4546-8422-d292f875efb9-whom.gif). 
