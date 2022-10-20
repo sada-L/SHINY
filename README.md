@@ -1,4 +1,27 @@
-![sada-L](https://github.com/sada-L/SHINY/blob/main/dancing-cat-53.gif)
+![dancing-cat-53](https://user-images.githubusercontent.com/114806441/197027858-59945789-700f-4d72-8706-7cd64273ef44.gif)
 
-![sada-L](https://drive.google.com/file/d/1VZTU2DSBDDdiCvDLmHdymZUzcFRyDLOf/view)
- 
+## Вступление 
+
+База данных "Шиномотажка", сделана Индиваидуальным предпринимателем ООО "Лучше раньше, чем позже"
+
+## Уставновка
+
+```
+1. Создать новую базу данных с любым именем
+2. Открыть новый редактор SQL
+3. Скопировать скрипт из файла 
+4. Вставить в редактор 
+5. Выполнить скрипт 
+6. ГОТОВО
+```
+
+## Превью
+
+![image](https://user-images.githubusercontent.com/114806441/197027665-6261b527-28da-4575-898f-a173e50624ce.png)
+
+![image](https://user-images.githubusercontent.com/114806441/197027791-363fb5be-b9ae-41a6-aae9-734b540399fc.png)
+
+## Контакты 
+
+ [VK](https://vk.com/id688464257)
+
