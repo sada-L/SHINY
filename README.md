@@ -1,4 +1,4 @@
-![NSGIF](https://akspic.ru/image/167718-hoodie_guy_with_magical_universe)
+![sada-L](https://github.com/sada-L/SHINY/blob/main/167718-hoodie_guy_with_magical_universe-500x.jpg)
 
 NSGIF is an iOS Library for converting your videos into beautiful animated GIFs.
 Check out [_this example_](http://files.parsetfss.com/2677410f-fd15-46aa-a2fa-258c85d4da30/tfss-2215cfe6-03b5-4546-8422-d292f875efb9-whom.gif). 
